@@ -1,0 +1,368 @@
+SENARYOYA AIT BASLANGIC BILGILERI
+---------------------------------
+Insan_imparatorlugu Savas Bilgileri
+--------------------------------------
+Piyadeler:1 birim(Saldiri Gucu:30,000000,Savunma Gucu:40,000000,Saglik:100,000000,Kritik Vurusu Sansi:%5,000000
+
+Okcular:1 birim(Saldiri Gucu:40,000000,Savunma Gucu:20,000000,Saglik:80,000000,Kritik Vurusu Sansi:%10,000000
+
+Suvariler:1 birim(Saldiri Gucu:50,000000,Savunma Gucu:30,000000,Saglik:120,000000,Kritik Vurusu Sansi:%7,000000
+
+Kusatma Makineleri:1 birim(Saldiri Gucu:100,000000,Savunma Gucu:50,000000,Saglik:150,000000,Kritik Vurusu Sansi:%0,000000
+
+
+Kahraman
+Fatih_Sultan_Mehmet :(kusatma_makineleri %25,000000 saldiri Gucu Bonusu)
+
+Canavar
+Ejderha :(piyadeler %15,000000 saldiri Gucu Bonusu)
+-----------------------------------------------------
+Ork_Lejyonuna Ait Savas Bilgileri
+-----------------------------------------------------
+Ork_Dovusculeri:1 birim(Saldiri Gucu:35,000000,Savunma Gucu:25,000000,Saglik:100,000000,Kritik Vurusu Sansi:%8,000000
+
+Mizrakcilar:1 birim(Saldiri Gucu:45,000000,Savunma Gucu:20,000000,Saglik:90,000000,Kritik Vurusu Sansi:%5,000000
+
+Varg_Binicileri:1 birim(Saldiri Gucu:55,000000,Savunma Gucu:35,000000,Saglik:130,000000,Kritik Vurusu Sansi:%6,000000
+
+Troller:1 birim(Saldiri Gucu:70,000000,Savunma Gucu:40,000000,Saglik:200,000000,Kritik Vurusu Sansi:%5,000000
+
+
+Kahraman
+Thruk_Kemikkiran :(troller %25,000000 savunma Gucu Bonusu)
+
+Canavar
+Kara_Troll :(troller %20,000000 saldiri Gucu Bonusu)
+
+Arastirma Degerleri
+
+Insan Imparatorlugu
+Savunma Ustaligi (Seviye:2):Tum birimlerin savunmasini   %20 arttirir
+
+Ork_Lejyonu
+Saldiri Gelistimesi (Seviye:2):Tum birimlerin saldirisini   %20 arttirir
+
+----------------------------INSAN IMPARATORLUGU---------------VS---------------ORK LEJYONU---------------------------
+
+1.Adim (Insanlar Saldiriyor-Ork Savunuyor)
+------------------------------------------------------
+Piyade toplam Saldiri gucu:34,500000
+ Okcu toplam Saldiri gucu:40,000000
+ Suvari toplam Saldiri gucu:50,000000
+ Kusatmamak toplam Saldiri gucu:125,000000
+Insan Imparatorlugu Saldiri Gucu:249,500000
+Mizrakci toplam Savunma gucu:20,000000
+ Ork_Dovuscu toplam Savunma gucu:25,000000
+ Varg_Binici toplam Savunma gucu:35,000000
+ Troller toplam Savunma gucu:50,000000
+Ork Lejyonu Savunma Gucu:130,000000
+Net Hasar Hesaplamasi:119,500000
+
+Insan Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Mizrakci Sayisi:1,000000
+Mizrakcilarin Saglik Degeri:71,615387
+
+Ork_Dovuscu Sayisi:1,000000
+Ork_Dovusculerinin Saglik Degeri:77,019234
+
+Varg_Binicilerinin Sayisi:1,000000
+Varg_Binicilerinin Saglik Degeri:97,826920
+
+Trollerin Sayisi:1,000000
+Trollerin Saglik Degeri:154,038467
+
+---------------------------------------------------------------------
+2.Adim (Ork Saldiriyor-Insanlar Savunuyor)
+------------------------------------------------------
+Mizrakci toplam Saldiri gucu:54,000000
+ Dovuscu toplam Saldiri gucu:42,000000
+ Varg_binici toplam Saldiri gucu:66,000000
+ Troller toplam Saldiri gucu:100,800003
+Ork Lejyonu Saldiri Gucu:262,799988
+Piyade toplam Savunma gucu:48,000000
+ Okcu toplam Savunma gucu:24,000000
+ Suvari toplam Savunma gucu:36,000000
+ Kusatma_makineleri toplam Savunma gucu:60,000000
+Insan Imparatorlugu Savunma Gucu:168,000000
+Net Hasar Hesaplamasi:94,799988
+Ork Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Piyadelerin Sayisi:1,000000
+Piyadelerin Saglik Degeri:72,914291
+
+Okcularin Sayisi:1,000000
+Okcularin Saglik Degeri:66,457146
+
+Suvarilerin Sayisi:1,000000
+Suvarilerin Saglik Degeri:99,685715
+
+Kusatma_Makinelerinin Sayisi:1,000000
+Kusatma_Makinelerinin Saglik Degeri:116,142860
+
+---------------------------------------------------------------------
+3.Adim (Insanlar Saldiriyor-Ork Savunuyor)
+------------------------------------------------------
+Piyade toplam Saldiri gucu:34,500000
+ Okcu toplam Saldiri gucu:40,000000
+ Suvari toplam Saldiri gucu:50,000000
+ Kusatmamak toplam Saldiri gucu:125,000000
+Insan Imparatorlugu Saldiri Gucu:249,500000
+Mizrakci toplam Savunma gucu:20,000000
+ Ork_Dovuscu toplam Savunma gucu:25,000000
+ Varg_Binici toplam Savunma gucu:35,000000
+ Troller toplam Savunma gucu:50,000000
+Ork Lejyonu Savunma Gucu:130,000000
+Net Hasar Hesaplamasi:119,500000
+
+Insan Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Mizrakci Sayisi:1,000000
+Mizrakcilarin Saglik Degeri:53,230770
+
+Ork_Dovuscu Sayisi:1,000000
+Ork_Dovusculerinin Saglik Degeri:54,038464
+
+Varg_Binicilerinin Sayisi:1,000000
+Varg_Binicilerinin Saglik Degeri:65,653839
+
+Trollerin Sayisi:1,000000
+Trollerin Saglik Degeri:108,076927
+
+---------------------------------------------------------------------
+4.Adim (Ork Saldiriyor-Insanlar Savunuyor)
+------------------------------------------------------
+Mizrakci toplam Saldiri gucu:54,000000
+ Dovuscu toplam Saldiri gucu:42,000000
+ Varg_binici toplam Saldiri gucu:66,000000
+ Troller toplam Saldiri gucu:100,800003
+Ork Lejyonu Saldiri Gucu:262,799988
+Piyade toplam Savunma gucu:48,000000
+ Okcu toplam Savunma gucu:24,000000
+ Suvari toplam Savunma gucu:36,000000
+ Kusatma_makineleri toplam Savunma gucu:60,000000
+Insan Imparatorlugu Savunma Gucu:168,000000
+Net Hasar Hesaplamasi:94,799988
+Ork Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Piyadelerin Sayisi:1,000000
+Piyadelerin Saglik Degeri:45,828579
+
+Okcularin Sayisi:1,000000
+Okcularin Saglik Degeri:52,914291
+
+Suvarilerin Sayisi:1,000000
+Suvarilerin Saglik Degeri:79,371429
+
+Kusatma_Makinelerinin Sayisi:1,000000
+Kusatma_Makinelerinin Saglik Degeri:82,285721
+
+---------------------------------------------------------------------
+5.Adim (Insanlar Saldiriyor-Ork Savunuyor)
+------------------------------------------------------
+Piyade toplam Saldiri gucu:34,500000
+ Okcu toplam Saldiri gucu:40,000000
+ Suvari toplam Saldiri gucu:50,000000
+ Kusatmamak toplam Saldiri gucu:125,000000
+Insan Imparatorlugu Saldiri Gucu:249,500000
+Mizrakci toplam Savunma gucu:20,000000
+ Ork_Dovuscu toplam Savunma gucu:25,000000
+ Varg_Binici toplam Savunma gucu:35,000000
+ Troller toplam Savunma gucu:50,000000
+Ork Lejyonu Savunma Gucu:130,000000
+Net Hasar Hesaplamasi:119,500000
+
+Insan Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Mizrakci Sayisi:1,000000
+Mizrakcilarin Saglik Degeri:34,846153
+
+Ork_Dovuscu Sayisi:1,000000
+Ork_Dovusculerinin Saglik Degeri:31,057693
+
+Varg_Binicilerinin Sayisi:1,000000
+Varg_Binicilerinin Saglik Degeri:33,480762
+
+Trollerin Sayisi:1,000000
+Trollerin Saglik Degeri:62,115387
+
+---------------------------------------------------------------------
+6.Adim (Ork Saldiriyor-Insanlar Savunuyor)
+------------------------------------------------------
+Mizrakci toplam Saldiri gucu:54,000000
+ Dovuscu toplam Saldiri gucu:42,000000
+ Varg_binici toplam Saldiri gucu:66,000000
+ Troller toplam Saldiri gucu:100,800003
+Ork Lejyonu Saldiri Gucu:262,799988
+Piyade toplam Savunma gucu:48,000000
+ Okcu toplam Savunma gucu:24,000000
+ Suvari toplam Savunma gucu:36,000000
+ Kusatma_makineleri toplam Savunma gucu:60,000000
+Insan Imparatorlugu Savunma Gucu:168,000000
+Yorgunluk etkin
+Net Hasar Hesaplamasi:85,319992
+Ork Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Piyadelerin Sayisi:1,000000
+Piyadelerin Saglik Degeri:21,451439
+
+Okcularin Sayisi:1,000000
+Okcularin Saglik Degeri:40,725719
+
+Suvarilerin Sayisi:1,000000
+Suvarilerin Saglik Degeri:61,088573
+
+Kusatma_Makinelerinin Sayisi:1,000000
+Kusatma_Makinelerinin Saglik Degeri:51,814297
+
+---------------------------------------------------------------------
+7.Adim (Insanlar Saldiriyor-Ork Savunuyor)
+------------------------------------------------------
+Piyade toplam Saldiri gucu:34,500000
+ Okcu toplam Saldiri gucu:40,000000
+ Suvari toplam Saldiri gucu:50,000000
+ Kusatmamak toplam Saldiri gucu:125,000000
+Insan Imparatorlugu Saldiri Gucu:249,500000
+Mizrakci toplam Savunma gucu:20,000000
+ Ork_Dovuscu toplam Savunma gucu:25,000000
+ Varg_Binici toplam Savunma gucu:35,000000
+ Troller toplam Savunma gucu:50,000000
+Ork Lejyonu Savunma Gucu:130,000000
+Yorgunluk etkin
+Net Hasar Hesaplamasi:107,550003
+
+Insan Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Mizrakci Sayisi:1,000000
+Mizrakcilarin Saglik Degeri:18,299999
+
+Ork_Dovuscu Sayisi:1,000000
+Ork_Dovusculerinin Saglik Degeri:10,375001
+
+Varg_Binicilerinin Sayisi:1,000000
+Varg_Binicilerinin Saglik Degeri:4,524992
+
+Trollerin Sayisi:1,000000
+Trollerin Saglik Degeri:20,750002
+
+---------------------------------------------------------------------
+8.Adim (Ork Saldiriyor-Insanlar Savunuyor)
+------------------------------------------------------
+Mizrakci toplam Saldiri gucu:54,000000
+ Dovuscu toplam Saldiri gucu:42,000000
+ Varg_binici toplam Saldiri gucu:66,000000
+ Troller toplam Saldiri gucu:100,800003
+Ork Lejyonu Saldiri Gucu:262,799988
+Piyade toplam Savunma gucu:48,000000
+ Okcu toplam Savunma gucu:24,000000
+ Suvari toplam Savunma gucu:36,000000
+ Kusatma_makineleri toplam Savunma gucu:60,000000
+Insan Imparatorlugu Savunma Gucu:168,000000
+Yorgunluk etkin
+Net Hasar Hesaplamasi:85,319992
+Ork Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Piyadelerin Sayisi:0,000000
+Piyadelerin Saglik Degeri:0,000000
+
+Okcularin Sayisi:1,000000
+Okcularin Saglik Degeri:28,537149
+
+Suvarilerin Sayisi:1,000000
+Suvarilerin Saglik Degeri:42,805717
+
+Kusatma_Makinelerinin Sayisi:1,000000
+Kusatma_Makinelerinin Saglik Degeri:21,342871
+
+---------------------------------------------------------------------
+9.Adim (Insanlar Saldiriyor-Ork Savunuyor)
+------------------------------------------------------
+Piyade toplam Saldiri gucu:0,000000
+ Okcu toplam Saldiri gucu:40,000000
+ Suvari toplam Saldiri gucu:50,000000
+ Kusatmamak toplam Saldiri gucu:125,000000
+Insan Imparatorlugu Saldiri Gucu:215,000000
+Mizrakci toplam Savunma gucu:20,000000
+ Ork_Dovuscu toplam Savunma gucu:25,000000
+ Varg_Binici toplam Savunma gucu:35,000000
+ Troller toplam Savunma gucu:50,000000
+Ork Lejyonu Savunma Gucu:130,000000
+Yorgunluk etkin
+Net Hasar Hesaplamasi:76,500000
+
+Insan Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Mizrakci Sayisi:1,000000
+Mizrakcilarin Saglik Degeri:6,530768
+
+Ork_Dovuscu Sayisi:0,000000
+Ork_Dovusculerinin Saglik Degeri:0,000000
+
+Varg_Binicilerinin Sayisi:0,000000
+Varg_Binicilerinin Saglik Degeri:0,000000
+
+Trollerin Sayisi:0,000000
+Trollerin Saglik Degeri:0,000000
+
+---------------------------------------------------------------------
+10.Adim (Ork Saldiriyor-Insanlar Savunuyor)
+------------------------------------------------------
+Mizrakci toplam Saldiri gucu:54,000000
+ Dovuscu toplam Saldiri gucu:0,000000
+ Varg_binici toplam Saldiri gucu:0,000000
+ Troller toplam Saldiri gucu:0,000000
+Ork Lejyonu Saldiri Gucu:54,000000
+Piyade toplam Savunma gucu:0,000000
+ Okcu toplam Savunma gucu:24,000000
+ Suvari toplam Savunma gucu:36,000000
+ Kusatma_makineleri toplam Savunma gucu:60,000000
+Insan Imparatorlugu Savunma Gucu:120,000000
+Yorgunluk etkin
+Net Hasar Hesaplamasi:0,000000
+Ork Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Piyadelerin Sayisi:0,000000
+Piyadelerin Saglik Degeri:0,000000
+
+Okcularin Sayisi:1,000000
+Okcularin Saglik Degeri:28,537149
+
+Suvarilerin Sayisi:1,000000
+Suvarilerin Saglik Degeri:42,805717
+
+Kusatma_Makinelerinin Sayisi:1,000000
+Kusatma_Makinelerinin Saglik Degeri:21,342871
+
+---------------------------------------------------------------------
+11.Adim (Insanlar Saldiriyor-Ork Savunuyor)
+------------------------------------------------------
+Piyade toplam Saldiri gucu:0,000000
+ Okcu toplam Saldiri gucu:40,000000
+ Suvari toplam Saldiri gucu:50,000000
+ Kusatmamak toplam Saldiri gucu:125,000000
+Insan Imparatorlugu Saldiri Gucu:215,000000
+Mizrakci toplam Savunma gucu:20,000000
+ Ork_Dovuscu toplam Savunma gucu:0,000000
+ Varg_Binici toplam Savunma gucu:0,000000
+ Troller toplam Savunma gucu:0,000000
+Ork Lejyonu Savunma Gucu:20,000000
+Yorgunluk etkin
+Net Hasar Hesaplamasi:157,949997
+
+Insan Saldirisindan Sonra Degisen Degerler
+------------------------------------------------------
+Mizrakci Sayisi:0,000000
+Mizrakcilarin Saglik Degeri:0,000000
+
+Ork_Dovuscu Sayisi:0,000000
+Ork_Dovusculerinin Saglik Degeri:0,000000
+
+Varg_Binicilerinin Sayisi:0,000000
+Varg_Binicilerinin Saglik Degeri:0,000000
+
+Trollerin Sayisi:0,000000
+Trollerin Saglik Degeri:0,000000
+
+---------------------------------------------------------------------
+
+Savas bitti.Insan Imparatorlugu Ork Lejyonunu Yendi .

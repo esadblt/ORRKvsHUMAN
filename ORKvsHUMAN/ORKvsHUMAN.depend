@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730884537 source:c:\users\esadm\onedrive\masaüstü\c projects\orkvshuman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"raylib.h"
+	"raymath.h"
+	<math.h>
+
